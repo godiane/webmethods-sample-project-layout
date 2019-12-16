@@ -2,9 +2,7 @@
 
 <FLOW VERSION="3.0" CLEANUP="true">
   <COMMENT></COMMENT>
-
   <!-- nodes -->
-
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT></COMMENT>
   <MAPTARGET>
